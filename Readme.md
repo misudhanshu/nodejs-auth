@@ -1,2 +1,1 @@
-Creating DB Cluster -> Creating Database -> Making DB folder and connecting db -> Making Models/Schema -> Writing logic in controllers -> Making route -> Making index.js and running server
-
+Node JS auth controllers where admin can upload images using multer and save it in cloudinary and it also has role based access control only admin can post images and authorized user can see images the file size is limited upto 5mb
